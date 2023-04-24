@@ -1,0 +1,28 @@
+{
+  "name": "json-server-tekup-solutions",
+  "version": "1.0.0",
+  "description": "json-server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuchausx/json-server-tekup-solutions.git"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Phu Chau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phuchausx/json-server-tekup-solutions/issues"
+  },
+  "homepage": "https://github.com/phuchausx/json-server-tekup-solutions#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
