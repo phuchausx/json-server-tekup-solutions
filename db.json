@@ -1,0 +1,78 @@
+{
+   "categories": [
+      {
+         "id": 1,
+         "name": "Manpower Supply"
+      },
+      {
+         "id": 2,
+         "name": "Mobile App / Websites"
+      },
+      {
+         "id": 3,
+         "name": "UI/UX Design"
+      }
+   ],
+   "products": [
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/09/image-1.png",
+         "altImage": "TOI 3D Customize E-commerce",
+         "title": "TOI 3D Customize E-commerce",
+         "categoryId": 2
+      },
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/09/image.png",
+         "altImage": "E-learning – Internal training platform",
+         "title": "E-learning – Internal training platform",
+         "categoryId": 2
+      },
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/08/summer21-thumbnail.png",
+         "altImage": "Summer 21 Cosmetic E-commerce Platform",
+         "title": "Summer 21 Cosmetic E-commerce Platform",
+         "categoryId": 2
+      },
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/08/kiva-thumbnail.png",
+         "altImage": "Kiva – Ambition to digital transformation in the brokerage assiduity",
+         "title": "Kiva – Ambition to digital transformation in the brokerage assiduity",
+         "categoryId": 2
+      },
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/09/doitac-dsoft.jpg",
+         "altImage": "Dsoft",
+         "title": "Dsoft",
+         "categoryId": 1
+      },
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/09/doitac-mitc.jpg",
+         "altImage": "MITC",
+         "title": "MITC",
+         "categoryId": 1
+      },
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/09/doitac-tego.jpg",
+         "altImage": "Tego",
+         "title": "Tego",
+         "categoryId": 1
+      },
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/09/doitac-mor.jpg",
+         "altImage": "MOR",
+         "title": "MOR",
+         "categoryId": 1
+      },
+            {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/09/image.png",
+         "altImage": "E-learning – Internal training platform",
+         "title": "E-learning – Internal training platform",
+         "categoryId": 3
+      },
+      {
+         "srcImage": "https://tekup.vn/wp-content/uploads/2022/08/summer21-thumbnail.png",
+         "altImage": "Summer 21 Cosmetic E-commerce Platform",
+         "title": "Summer 21 Cosmetic E-commerce Platform",
+         "categoryId": 3
+      }
+   ]
+}
